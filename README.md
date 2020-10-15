@@ -1,9 +1,11 @@
 # codezing-clone
 ```
-This is a platform to practice the html and css codes, and to see the output. The codes can be saved also for future reference. Saved codes can be edited later and changes can be saved.
-
-The project is hoisted at url: https://codezing-clone.web.app/
+This is a platform to practice the html and css codes, and to see the output. 
+The codes can be saved also for future reference. 
+Saved codes can be edited later and changes can be saved.
 ```
+
+[Click here to view the live project.](https://codezing-clone.web.app/)
 
 ## Project setup
 ```
